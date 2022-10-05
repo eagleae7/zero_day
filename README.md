@@ -1,1 +1,1 @@
-This is my first repository as a full-stack engineer, awesome!
+This file is mandatory in projects
